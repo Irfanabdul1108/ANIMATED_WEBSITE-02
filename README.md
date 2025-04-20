@@ -17,7 +17,7 @@ Hello Everyone,
 👉 For better user experience please use it in larger screens.
 
 
-Check out the project here: [https://lnkd.in/gAm8-g7G]
+Check out the project here: [https://animatedwebsite02.netlify.app/]
 
 
 👉 Currently started React and also backend by learning concepts and different functionalities effeciently in websites and also focusing on different categories of websites where i would standout in future.
